@@ -1,6 +1,16 @@
 # exercise 2.5
-# by: Elad Shoshani
 # 25.04.2020
+
+__author__ = "Elad Shoshani"
+__version__ = "1.0"
+__maintainer__ = "Elad Shoshani"
+__email__ = "eladshoshani11@gmail.com"
+# ------------------------------------------------------------------------
+"""
+A simple exercise that demonstrates inheritance and
+polymerism principles through animals classes
+"""
+# ------------------------------------------------------------------------
 
 
 class Animal:
