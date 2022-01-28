@@ -1,6 +1,13 @@
 # exercise 5.4
-# by: Elad Shoshani
 # 24.04.2020
+
+__author__ = "Elad Shoshani"
+__version__ = "1.0.1"
+__maintainer__ = "Elad Shoshani"
+__email__ = "eladshoshani11@gmail.com"
+# ------------------------------------------------------------------------------------------
+"""A simple iterators and generators exercise"""
+# ------------------------------------------------------------------------------------------
 
 
 class IdLengthError(Exception):
